@@ -1,0 +1,2 @@
+# PerguntaLa
+Projeto para estudo de uma aplicação no modelo de chatbot que seja capaz de responder perguntas básicas sobre alguns temas pré-configurados. As perguntas que forem feitas e que a aplicação não consiga responder serão armazenadas em banco de dados para posteriormente serem incluídas na base de conhecimento dela. Pretendo utilizar a linguagem Java 11, com Spring Boot, JPA, AIML (Artificial Intelligence Markup Language) e arquitetura em microserviços. A base de dados será o MySQL.
